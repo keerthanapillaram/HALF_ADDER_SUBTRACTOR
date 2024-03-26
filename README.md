@@ -35,6 +35,9 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
+![WhatsApp Image 2024-03-26 at 09 49 42_5ec3c62a](https://github.com/keerthanapillaram/HALF_ADDER_SUBTRACTOR/assets/145743072/ec2a45d1-6b90-49d8-9ee1-ce1b6c1b8c1b)
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
