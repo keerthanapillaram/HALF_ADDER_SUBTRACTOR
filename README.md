@@ -86,4 +86,5 @@ endmodule
 
 
 **Result:**
+
 Thus Implementation-of-Half-Adder-and-Half Subtractor-circuit is running successfully
